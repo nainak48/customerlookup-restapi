@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 12 16:57:46 GMT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016e-608c-bb94-0000061cb9a8 
+on database directory memory:/Users/sonu/Documents/workspace-spring-tool-suite-4-4.4.1.RELEASE/customerlookup-restapi/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/Users/sonu/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=/Users/sonu/Documents/workspace-spring-tool-suite-4-4.4.1.RELEASE/customerlookup-restapi
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
